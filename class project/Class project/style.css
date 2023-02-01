@@ -1,0 +1,74 @@
+body{
+	font-size:24px;
+	text-align:center;
+}
+.img{
+	background-image:url(background_img/img_mountains.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:inherit;
+	height:inherit;
+}
+ul{ 
+text-decoration:none;
+list-style-type:none;
+}
+table{
+border:1px solid black;
+}
+th{
+	color:rgba(200,100,500.0.5)
+	
+}
+placeholder{
+	border-radius:10px;
+}
+taxtarea{
+	border-radius:10px;
+}
+
+ul.b{
+		list-style-type:square;
+		color:white;
+	
+	}
+ol.a{
+	list-style-type:lower-alpha;
+	color:white;
+	
+}
+
+
+
+	a:link {
+  background-color: yellow;
+  text-decoration:none;
+  border:solid 2px;
+  float:right;
+}
+
+a:visited {
+  background-color: cyan;
+  text-decoration:none; 
+   border:solid;
+   color:black;
+   float:right;
+
+}
+
+a:hover {
+  background-color: lightgreen;
+   text-decoration:underline;
+    border:solid;
+	float:right;
+	
+}
+
+a:active {
+  background-color: hotpink;
+   text-decoration:none;
+    border:solid;
+	float:right;
+	
+} 

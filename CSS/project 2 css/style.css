@@ -1,0 +1,67 @@
+html{
+	height:100%;
+}
+.img{
+	background-image:url(images/pole.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:inherit;
+	height:inherit;
+}
+body{
+	margin:0;
+    padding:0;
+    height:100%;
+}
+	
+h1{
+	color:gray;
+	font-family:georgia;
+	text-decoration:underline;
+}
+
+h2{
+	color:gray;
+	font-family:georgia;
+	text-decoration;underline;
+}
+
+ul{
+	text-decoration:none;
+	list-style-type:none;
+	color:white
+}
+a{
+	align:right;
+	text-decoration:none;
+}
+a:link{
+	background-color:inherit;
+	color:white
+}
+a:hover{
+	background-color:(120,120,120,0.5);
+	text-decoration:underline;
+}
+a:visited{
+color:black;
+}
+a:active{
+	color:rgba(00,00,00,0.7);
+}
+p{
+	TEXT-align:center;
+}
+.paragraph{
+	text-align:center;
+	color:white;
+	
+}
+
+.left{
+   text-align:left 10px;
+}
+.netball{
+padding-left:10px;
+}

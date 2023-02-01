@@ -1,0 +1,25 @@
+body{background-color:skyblue;
+}
+p{font-size:60px;
+color:red;
+}
+form{background-color:pink;
+}
+#tp{background-color:yellow;
+
+}
+#animal{
+background-image:url(tiger.jpg.jpg);
+font-size:35px;
+color:aqua;
+background-position:center;
+background-color:blue;
+background-repeat:no-repeat;
+background-attachment:scroll;
+opacity:70%;
+}
+#
+animal2{
+	border:4px solid red;
+	color:pink;
+}
